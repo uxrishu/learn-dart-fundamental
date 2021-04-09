@@ -3,10 +3,10 @@
 Source code of Fundamental of Dart (A-Z)
 
 ## Content:
-![content](https://user-images.githubusercontent.com/57044551/114015951-f26a6d00-9887-11eb-8232-67335506b127.png)
+![dartcourse](https://user-images.githubusercontent.com/57044551/114170043-f8c41c00-994f-11eb-917b-5a0a2d2531e9.png)
 
-This course built by: @freecodecamp
-Get free course on Youtube: [Learn Dart](https://youtu.be/Ej_Pcr4uC2Q).
+This course built by: @smartherd
+Get free course on Youtube: [Learn Dart here](https://youtube.com/playlist?list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q).
 ## Get source code
 Type:
 ```
@@ -15,4 +15,4 @@ git clone https://github.com/alphaion/learn-dart.git
 in your cmd or git bash to clone all source code of Dart in your local System.
 
 ### Want to contritube fundamentals?
-> make pull request. (Open Source)
+> Contribute. Its Open Source
