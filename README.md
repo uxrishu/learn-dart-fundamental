@@ -13,6 +13,3 @@ Type:
 git clone https://github.com/alphaion/learn-dart.git
 ```
 in your cmd or git bash to clone all source code of Dart in your local System.
-
-### Want to contritube fundamentals?
-> Contribute. Its Open Source
