@@ -19,8 +19,8 @@ void main(){
   // If expr1 is non-null, return its value; otherwise, evaluates and
   // return the value of expr2.   
   
-  //String name = "Alphaion";
+  // String name = "Alphaion";
 
-  //String nameToPrint = name ?? "Guest User"; error
-  //print(nameToPrint);
+  // String nameToPrint = name ?? "Guest User";
+  // print(nameToPrint);
 }
