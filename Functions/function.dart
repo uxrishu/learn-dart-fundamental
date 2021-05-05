@@ -11,4 +11,5 @@ void findArea(int length, int breadth){
   // Function works here
   int area = (length*breadth);
   print(area);
+  print("Checked");
 }
