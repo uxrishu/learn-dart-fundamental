@@ -17,6 +17,6 @@ void main(){
   print(s3);
   // String Interpolation
    String name = "alphaion";
-   String message = "My name is $name.";
-   print(message);
+   String msg = "My name is $name.";
+   print(msg);
 }
